@@ -28,7 +28,7 @@ class UserCF:
         """
         score_matrix = np.zeros((len(customer), len(product)))
         for i in range(len(order)):
-            
+            pass
         
         
         
